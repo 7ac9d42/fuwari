@@ -1,9 +1,49 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## 这是哪儿？
 
-::github{repo="saicaca/fuwari"}
+这是7ac9d42(KUAPT)的个人博客，主要用于技术验证，学习笔记留档，知识与经验分享
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 本站是如何搭建的？
+
+本站采用分布式构建确保可靠性与便利性   
+具体使用如下平台/项目：
+
+- ~~本站基于Hexo项目，使用Vivia主题并进行了少量自定义/bug修复/pr合并（原主题项目已经不再积极维护）~~
+- 本站基于Astro，基于Fuwari模板完成个性化更改
+- 本站资源基于Github私有仓库托管，以保证安全性
+- 本站构建基于Vercel，以确保全球范围内的可访问性
+- 使用私有裸金属服务器做服务备份，并使用VPS做网络中转，提供全球可用的后备访问路径
+- ~~使用开源项目Qexo,于本地私有服务器构建，提供在线的Hexo文章写作与管理~~
+- 使用Cloudflare R2存储桶作为图床存储介质，并使用私有服务器搭建Alist作为后备存储访问途径
+- ~~使用twikoo于私有服务器进行构建，提供评论区功能，由于评论区为非核心功能，因此不保证高可用~~
+
+## 本站更新/维护频率是？
+
+本站更新随缘，更新内容随缘   
+本站文章维护随缘，但是发现问题会尽快维护更正   
+欢迎通过本人联系方式||~~评论区~~联系本人指正   
+同样欢迎友好的交流学习   
+
+## 页顶海报与头像画师
+
+海报：
+
+- 作者：[晴山\_BlueMountain](https://www.pixiv.net/users/14438715)
+- 作品：[出游](https://www.pixiv.net/artworks/111063093)
+
+头像：
+
+- 作者：[八代ハチ](https://www.pixiv.net/users/72471359)
+- 作品：[アズサちゃんと待ち合わせ](https://www.pixiv.net/artworks/115836930)
+
+
+
+## 本站有彩蛋吗？
+
+~~**你猜**~~
+
+### ~~夹带私货~~
+
+小梓世界第一可爱   
+瓦尼瓦尼꒰ঌ(🎀 ᗜ`v´ᗜ 🌸)໒꒱💈✅   
+
